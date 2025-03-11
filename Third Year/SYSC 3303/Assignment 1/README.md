@@ -8,7 +8,7 @@
         figure out where it stops and couldn't find anything other than all threads
         running and not doing anything)
 
-**UML Diagrams (Made on drawio)** - look up draw.io on a browser and open the files there
-    - 3303_UML_Class_Diagram.drawio
-    - 3303_UML_Sequence_Diagram.drawio
+**UML Diagrams (Made on drawio)**
+- 3303_UML_Class_Diagram.drawio
+- 3303_UML_Sequence_Diagram.drawio
 
