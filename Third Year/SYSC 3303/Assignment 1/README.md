@@ -1,6 +1,6 @@
 # SYSC 3303 Assignment #1 - Ryan Page (101268082)
 
-**101268082_Assignment1.cpp ** - Is the Sandwich Making Chefs Problem C++ Code
+**101268082_Assignment1.cpp** - Is the Sandwich Making Chefs Problem C++ Code
 
 (Note -- Code seems to have some deadlock doesn't make all 20 sandwiches everytime 
         please try and restart the code a couple of times, it will sometimes make 
